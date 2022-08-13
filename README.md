@@ -1,5 +1,5 @@
-Snake ,Water and gun.
+B.tech student
 
-This a simple c project.
+Python,C++
 
-Just works on the random function in C language.
+Web Development Backend
