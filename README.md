@@ -1,3 +1,3 @@
 B.Tech Student 
-Python , C++,
+Python , C++,C.
 Enthusiastic Software Developer
