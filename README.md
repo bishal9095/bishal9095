@@ -1,3 +1,3 @@
-Software Developer with skills
-Python , AI/ML Javascript Backend and Front End Framewroks, C++,C.
+Software Developer with skills\n
+Python , AI/ML, Javascript Backend and Front End Framewroks, C++,C.
 
