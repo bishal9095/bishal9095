@@ -1,3 +1,3 @@
-Software Enthusiast
-Python , C++,C.
-Software Developer
+Software Developer with skills
+Python , Javascript Backend and Front End Framewroks, C++,C.
+
