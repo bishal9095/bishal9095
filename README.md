@@ -1,3 +1,3 @@
 Software Developer with skills
-Python , Javascript Backend and Front End Framewroks, C++,C.
+Python , AI/ML Javascript Backend and Front End Framewroks, C++,C.
 
